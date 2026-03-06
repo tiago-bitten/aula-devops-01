@@ -1,8 +1,14 @@
-# Welcome to your Lovable project
+# Bet Buddy
 
-## Project info
+Plataforma moderna de apostas esportivas que oferece aos usuários uma experiência completa para apostar nos principais eventos esportivos do mundo. Com odds competitivas, jogos ao vivo, múltiplos mercados e uma interface intuitiva, o Bet Buddy é o companheiro ideal para apostadores que buscam emoção e oportunidades de ganho.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## Principais Recursos
+
+- **Apostas ao vivo**: Acompanhe e aposte em jogos em tempo real
+- **Múltiplos esportes**: Futebol, basquete, tênis e muito mais
+- **Odds imbatíveis**: Melhores cotações do mercado
+- **Saques rápidos**: Receba seus ganhos com agilidade
+- **Bônus de boas-vindas**: Até R$ 500 para novos usuários
 
 ## How can I edit this code?
 
