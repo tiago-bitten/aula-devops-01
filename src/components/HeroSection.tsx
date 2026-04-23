@@ -16,6 +16,9 @@ const HeroSection = () => {
             <Gift className="h-4 w-4" />
             Bônus de boas-vindas até R$ 500
           </div>
+          <p className="text-sm font-semibold uppercase tracking-wider text-primary">
+            Bem-vindo, Tiago Silveira de Bittencourt
+          </p>
           <h1 className="font-display text-5xl md:text-7xl font-bold uppercase leading-tight text-foreground">
             Aposte nos <span className="text-primary text-glow">melhores</span> jogos
           </h1>
